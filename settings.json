@@ -9,7 +9,7 @@
     "editor.minimap.enabled": false,
     "editor.renderFinalNewline": "off",
     "editor.cursorStyle": "block",
-    "editor.cursorBlinking": "solid",
+    "editor.cursorBlinking": "phase",
     "editor.fontFamily": "Martian Mono SemiExpanded",
     "editor.fontSize": 12,
     "editor.stickyScroll.enabled": false,
@@ -51,7 +51,7 @@
     // Dart
     "dart.notifyAnalyzerErrors": false,
     "dart.warnWhenEditingFilesOutsideWorkspace": false,
-    "dart.runPubGetOnPubspecChanges": "always",
+    "dart.runPubGetOnPubspecChanges": "never",
     "dart.flutterSdkPath": "/home/anton/fvm/default/bin",
     "dart.lineLength": 160,
     "dart.showInspectorNotificationsForWidgetErrors": false,
